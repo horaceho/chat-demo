@@ -57,7 +57,7 @@ export default {
 
   created() {
     this.fetchMessages();
-    //this.enablePusher();
+    this.enablePusher();
   }
 };
 </script>

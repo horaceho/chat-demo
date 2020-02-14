@@ -52,7 +52,7 @@
                 })
                     .then(() => {
                         this.newMessage = "";
-                        location.reload(); // comment this out if you are broadcasting
+                        // location.reload(); // comment this out if you are broadcasting
                     });
             }
         }
